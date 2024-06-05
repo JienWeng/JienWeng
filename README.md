@@ -9,7 +9,6 @@ Python / R / Scikit-Learn / Data Visualisation / SQL
 - 📫 How to reach me: reallyhat@gmail.com 
 
 ## Checkout my project below!
-|  [![Bellabeat](https://example.com/image.jpg)](https://github.com/JienWeng/SmartWatchCompanyAnalysis)
-|  |
+|  [![Bellabeat](Bellabeat-logo.jpg)](https://github.com/JienWeng/SmartWatchCompanyAnalysis) |  |
 |--|--|
 |  |  |
