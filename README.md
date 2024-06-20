@@ -6,7 +6,7 @@ Skills:
 Python / R / Scikit-Learn / Data Visualisation / SQL
 
 - 👯 I’m looking to collaborate on Data Science / Machine Learning Projects 
-- 📫 How to reach me: reallyhat@gmail.com 
+- 📫 How to reach me: laijienweng@gmail.com 
 
 ## Checkout my project below!
 |  [<img src="Bellabeat-logo.jpg" width="500"/>](https://github.com/JienWeng/SmartWatchCompanyAnalysis) | [<img src="loanApplication.png" width="500"/>](https://github.com/JienWeng/loanApplication) |
