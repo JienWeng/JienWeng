@@ -1,14 +1,55 @@
-# Lai Jien Weng
+```ascii
 
-Hi there! I'm a **Data Science Enthusiast** studying in Applied Mathematics with Computing student at Universiti Tunku Abdul Rahman, skilled in **predictive modeling**, **machine learning**, and **data analysis** using **R** and **Python**. Demonstrated leadership in academic projects and possess strong analytical capabilities. Committed to continuous learning and growth in the field.
+     ██╗██╗███████╗███╗   ██╗    ██╗    ██╗███████╗███╗   ██╗ ██████╗ 
+     ██║██║██╔════╝████╗  ██║    ██║    ██║██╔════╝████╗  ██║██╔════╝ 
+     ██║██║█████╗  ██╔██╗ ██║    ██║ █╗ ██║█████╗  ██╔██╗ ██║██║  ███╗
+██   ██║██║██╔══╝  ██║╚██╗██║    ██║███╗██║██╔══╝  ██║╚██╗██║██║   ██║
+╚█████╔╝██║███████╗██║ ╚████║    ╚███╔███╔╝███████╗██║ ╚████║╚██████╔╝
+ ╚════╝ ╚═╝╚══════╝╚═╝  ╚═══╝     ╚══╝╚══╝ ╚══════╝╚═╝  ╚═══╝ ╚═════╝ 
+ '=====''===============================''''============================
 
-Skills: 
-Python / R / Scikit-Learn / Data Visualisation / SQL
+[SYSTEM INFORMATION]====================================
+> OPERATOR: Jien Weng
+> LOCATION: Kuala Lumpur, MY
+> STATUS: BSc Student (Final Year)
+> MAJOR: Applied Mathematics & Computing
+====================================================
 
-- 👯 I’m looking to collaborate on Data Science / Machine Learning Projects 
-- 📫 How to reach me: laijienweng@gmail.com 
 
-## Checkout my project below!
-|  [<img src="Bellabeat-logo.jpg" width="500"/>](https://github.com/JienWeng/SmartWatchCompanyAnalysis) | [<img src="loanApplication.png" width="500"/>](https://github.com/JienWeng/loanApplication) |
-|--|--|
-|  |  |
+[PROFILE]==============================================
+EXECUTING cat profile.txt...
+
+Final year BSc (Hons) Applied Mathematics student with
+focus on AI and Data Science applications. Currently
+researching geometric Brownian motion for financial
+forecasting.
+
+ACTIVE PROJECTS:
+* PayNet Hackathon 2024 - Carbon Footprint Solutions
+* Financial Forecasting Research Paper
+====================================================
+
+
+[TECHNICAL SPECIFICATIONS]============================
+CORE SYSTEMS:
+* Python
+* R
+* Machine Learning
+* Deep Learning
+* Statistics
+* Mathematical Modeling
+====================================================
+
+
+[CONNECTION PORTS]===================================
+> MAIN: jienweng.netlify.app
+> GIT: github.com/jienweng
+> NET: linkedin.com/in/jienweng
+> MAIL: laijienweng@gmail.com
+====================================================
+
+
+[SYSTEM EXIT]=========================================
+C:/>_ Connection terminated
+====================================================
+```
