@@ -11,16 +11,16 @@
 [SYSTEM INFORMATION]====================================
 > OPERATOR: Jien Weng
 > LOCATION: Kuala Lumpur, MY
-> STATUS: BSc Student (Final Year)
-> MAJOR: Applied Mathematics & Computing
+> STATUS: Research Assistant @ Monash University
+> MAJOR: Applied Mathematics & AI
 ====================================================
 
 [PROFILE]==============================================
 EXECUTING cat profile.txt...
 
-Final year BSc (Hons) Applied Mathematics student with
-focus on AI and Data Science applications. Currently
-researching geometric Brownian motion for financial
+Research Assistant @ Monash University with focus
+on AI and Data Science applications. Currently
+researching transformer application for WWTP optimization
 forecasting.
 
 ACTIVE PROJECTS:
@@ -49,7 +49,7 @@ CORE SYSTEMS:
 ====================================================
 
 [CONNECTION PORTS]===================================
-> MAIN: jienweng.com
+> MAIN: jienweng.github.io
 > GIT: github.com/jienweng
 > NET: linkedin.com/in/jienweng
 > MAIL: laijienweng@gmail.com
