@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Jienweng
 
-<!--
-**JienWeng/JienWeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's student and research assistant working at the intersection of mathematics, machine learning, and AI. I care about research that's rigorous, applicable, and open to collaboration. Been active in hackathon, and now I mentor and judge too.
 
-Here are some ideas to get you started:
+### What I'm into
+- Reinforcement learning and its mathematical foundations
+- ML/AI research — especially where it meets quantitative finance and applied math
+- Open to collaborating on arXiv-worthy work in quant finance, ML theory, or math 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Open to
+- Research collaborations (quant finance, RL, ML math)
+- Open source contributions
+- Internships and opportunities in ML/AI
+
+### Connect
+[Website](https://jienweng.github.io) · [LinkedIn](https://linkedin.com/in/jienweng) · [laijienweng@gmail.com](mailto:laijienweng@gmail.com)
+
+---
+## If you're building something interesting, [let's talk](mailto:laijienweng@gmail.com).
