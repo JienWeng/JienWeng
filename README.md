@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm JienWeng 👋
 
-<!--
-**JienWeng/JienWeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer who loves building things and learning new technologies.
 
-Here are some ideas to get you started:
+## 🔭 What I'm up to
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Always learning and growing as a developer
+- 💻 Working on personal and open-source projects
+- 🤝 Open to collaborating on interesting ideas
+
+## 🛠️ Technologies & Tools
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 📊 GitHub Stats
+
+![JienWeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=JienWeng&show_icons=true&theme=default&hide_border=true)
+
+## 📫 Get in Touch
+
+Feel free to explore my repositories and reach out if you'd like to collaborate!
+
+---
+
+⭐ *Thanks for visiting my profile!*
