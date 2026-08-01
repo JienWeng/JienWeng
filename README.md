@@ -13,15 +13,6 @@ I currently work with [Quandatics](https://quandatics.com/) on business transfor
 - **Research:** multi-agent reinforcement learning, information design, market microstructure, and quantitative finance.
 - **Capability building:** coaching analytics teams so they can develop and maintain their own models.
 
-## Selected work
-
-- [CRM Platform](https://github.com/JienWeng/crm-platform) — a self-hosted, multi-workspace CRM adapted to an organisation's real operating workflow.
-- [MLOps Tutorial](https://github.com/JienWeng/mlops-tutorial) — hands-on experiment tracking, model registry, monitoring, and deployment with MLflow.
-- [Quant Lakehouse](https://github.com/JienWeng/quant-lakehouse) — a reproducible market-data pipeline using Airflow, Spark, MinIO, and Hive-compatible tables.
-- [Multi-Agent Public Goods Game](https://github.com/JienWeng/multi-agent-pgg) — research code for studying information design and cooperation in multi-agent systems.
-- [ZakatDAO](https://github.com/JienWeng/ZakatDAO) — an award-winning prototype for transparent, auditable zakat distribution.
-- [Yappy](https://github.com/JienWeng/yappy) — an open-source experiment in AI-assisted professional engagement workflows.
-
 ## Current research
 
 - Information design and credit assignment in multi-agent cooperation
