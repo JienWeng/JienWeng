@@ -1,27 +1,27 @@
-# Jien Weng
+# Jien Weng Lai
 
-**Business Transformation Consultant · AI Researcher · Data & ML Trainer**
+**Independent Consultant & Product Manager**
 
-I help organisations turn data and AI into working business systems. My work spans process improvement, automation, production ML, analytics capability building, and applied research.
+I help teams turn complex business and technical ideas into useful products, better systems, and stronger internal capability. My work sits between commercial priorities, product decisions, technical delivery, and the people who eventually need to own the result.
 
-I currently work with [Quandatics](https://quandatics.com/) on business transformation and with Quandatics Academy as a Data Science & Machine Learning Trainer. I am also an AI researcher with Monash University Malaysia and a proprietary research team.
+My independent work spans business transformation, Web3 product management, proprietary AI research, and data and machine-learning training. My contractor engagements include business transformation consulting with [Quandatics](https://quandatics.com/) and analytics-team coaching through [Quandatics Academy](https://academy.quandatics.com/). I am also a research assistant at Monash University Malaysia.
 
 ## What I work on
 
-- **Business transformation:** improving processes, automating repetitive work, and designing systems around how teams actually operate.
-- **Applied AI and ML systems:** taking models beyond experiments through reproducible workflows, deployment, monitoring, and ownership.
-- **Research:** multi-agent reinforcement learning, information design, market microstructure, and quantitative finance.
-- **Capability building:** coaching analytics teams so they can develop and maintain their own models.
+- **Business transformation:** clarifying how work happens, removing friction, and shaping practical systems around the team.
+- **Product delivery:** turning AI, data, and Web3 ideas into clear priorities, testable products, and coordinated delivery.
+- **Team capability:** coaching analytics teams so they can build, operate, and improve their own models and systems.
+- **Applied research:** multi-agent reinforcement learning, information design, market microstructure, and quantitative finance.
 
 ## Current research
 
 - Information design and credit assignment in multi-agent cooperation
 - Optimal execution with predictive alpha signals
 
-Publications, technical notes, projects, and my current CV are available on [jienweng.github.io](https://jienweng.github.io/).
+My publications, practical writing, projects, and current CV are available on [jienweng.github.io](https://jienweng.github.io/).
 
 ## Work with me
 
-I am open to business-transformation engagements, applied AI projects, training, research collaborations, and speaking opportunities.
+I am open to product and transformation partnerships, specialist delivery work, analytics capability building, research collaborations, and selected speaking opportunities.
 
 [Website](https://jienweng.github.io/) · [Work With Me](https://jienweng.github.io/services/) · [LinkedIn](https://www.linkedin.com/in/jienweng/) · [Email](mailto:laijienweng@gmail.com)
