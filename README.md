@@ -1,27 +1,29 @@
 # Jien Weng Lai
 
-**Independent Consultant & Product Manager**
+**Web3 Product Manager · Business Transformation Consultant · Data & ML Practitioner**
 
-I help teams turn complex business and technical ideas into useful products, better systems, and stronger internal capability. My work sits between commercial priorities, product decisions, technical delivery, and the people who eventually need to own the result.
+I turn complex Web3, payments, data, and operational problems into clear roadmaps, coordinated delivery, and usable systems. My work sits between product strategy, technical execution, analytics, and the teams who need to operate what gets built.
 
-My independent work spans business transformation, Web3 product management, proprietary AI research, and data and machine-learning training. My contractor engagements include business transformation consulting with [Quandatics](https://quandatics.com/) and analytics-team coaching through [Quandatics Academy](https://academy.quandatics.com/). I am also a research assistant at Monash University Malaysia.
+I currently coordinate an eight-person team delivering multi-chain crypto payment and wallet infrastructure. I also lead business-transformation work from requirements through production support and coach analytics teams on customer profiling, segmentation, and roadmap planning.
 
 ## What I work on
 
-- **Business transformation:** clarifying how work happens, removing friction, and shaping practical systems around the team.
-- **Product delivery:** turning AI, data, and Web3 ideas into clear priorities, testable products, and coordinated delivery.
-- **Team capability:** coaching analytics teams so they can build, operate, and improve their own models and systems.
-- **Applied research:** multi-agent reinforcement learning, information design, market microstructure, and quantitative finance.
+- **Web3 product delivery:** crypto payments, wallet infrastructure, blockchain products, backlog ownership, Scrum ceremonies, and delivery tracking.
+- **Business transformation:** requirements, workflow redesign, CRM implementation, stakeholder alignment, and continuous support.
+- **Data and machine learning:** customer analytics, segmentation, forecasting, time-series modelling, and AI-enabled workflows.
+- **Technical product work:** TypeScript, Next.js, PostgreSQL, Docker, Python, SQL, Solidity, Polygon, and Claude Code for AI-assisted development.
 
-## Current research
+## Selected public projects
 
-- Information design and credit assignment in multi-agent cooperation
-- Optimal execution with predictive alpha signals
+- **FacePay:** Project Manager and Team Lead for a facial-payment prototype using FaceNet, liveness detection, GPS verification, and a linked payment method.
+- **ZakatDAO:** Solidity-based decentralised zakat collection and distribution prototype on Polygon testnet.
+- **AI-Assisted Inventory Optimisation:** Product and Team Lead for a demand-forecasting, overstock-reduction, and allocation prototype using Alibaba Qwen, Quick BI, and Smart Q.
+- **Microalgae Monitoring:** Team and Product Lead for an Arduino, LoRa, Swift/watchOS, battery, and solar monitoring prototype.
 
-My publications, practical writing, projects, and current CV are available on [jienweng.github.io](https://jienweng.github.io/).
+## Research and writing
 
-## Work with me
+My public work covers applied machine learning, information design in multi-agent cooperation, satellite rainfall monitoring, and optimal execution with predictive signals. I also contribute to open source, including a merged SymPy pull request.
 
-I am open to product and transformation partnerships, specialist delivery work, analytics capability building, research collaborations, and selected speaking opportunities.
+I work professionally in English, Mandarin Chinese, Cantonese, and Malay. I am open to international Web3 product, project, program-management, and product-operations roles, with a preference for remote teams.
 
-[Website](https://jienweng.github.io/) · [Work With Me](https://jienweng.github.io/services/) · [LinkedIn](https://www.linkedin.com/in/jienweng/) · [Email](mailto:laijienweng@gmail.com)
+[Website](https://jienweng.github.io/) · [CV](https://jienweng.github.io/cv/) · [Projects](https://jienweng.github.io/projects/) · [LinkedIn](https://www.linkedin.com/in/jienweng/) · [Email](mailto:laijienweng@gmail.com)
