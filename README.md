@@ -4,7 +4,7 @@
 
 I turn complex Web3, payments, data, and operational problems into clear roadmaps, coordinated delivery, and usable systems. My work sits between product strategy, technical execution, analytics, and the teams who need to operate what gets built.
 
-I currently coordinate an eight-person team delivering multi-chain crypto payment and wallet infrastructure. I also lead business-transformation work from requirements through production support and coach analytics teams on customer profiling, segmentation, and roadmap planning.
+I currently lead product for multi-chain crypto payment and wallet infrastructure at CryptoRails. I also lead business-transformation work from requirements through production support and coach analytics teams on customer profiling, segmentation, and roadmap planning.
 
 ## What I work on
 
@@ -15,8 +15,8 @@ I currently coordinate an eight-person team delivering multi-chain crypto paymen
 
 ## Selected public projects
 
-- **FacePay:** Project Manager and Team Lead for a facial-payment prototype using FaceNet, liveness detection, GPS verification, and a linked payment method.
-- **ZakatDAO:** Solidity-based decentralised zakat collection and distribution prototype on Polygon testnet.
+- **FacePay** (PayHack 2025, Consolation Prize)**:** Project Manager and Team Lead for a facial-payment prototype using FaceNet, liveness detection, GPS verification, and a linked payment method.
+- **ZakatDAO** (UM Hackathon 2025)**:** Solidity-based decentralised zakat collection and distribution prototype on Polygon testnet.
 - **AI-Assisted Inventory Optimisation:** Product and Team Lead for a demand-forecasting, overstock-reduction, and allocation prototype using Alibaba Qwen, Quick BI, and Smart Q.
 - **Microalgae Monitoring:** Team and Product Lead for an Arduino, LoRa, Swift/watchOS, battery, and solar monitoring prototype.
 
