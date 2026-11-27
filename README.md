@@ -22,8 +22,8 @@ I currently coordinate an eight-person team delivering multi-chain crypto paymen
 
 ## Research and writing
 
-My public work covers applied machine learning, information design in multi-agent cooperation, satellite rainfall monitoring, and optimal execution with predictive signals. I also contribute to open source, including a merged SymPy pull request.
+My public work covers applied machine learning, satellite rainfall monitoring, and optimal execution with predictive signals ([SSRN](https://doi.org/10.2139/ssrn.6323159)). I also contribute to open source, including a merged SymPy pull request.
 
 I work professionally in English, Mandarin Chinese, Cantonese, and Malay. I am open to international Web3 product, project, program-management, and product-operations roles, with a preference for remote teams.
 
-[Website](https://jienweng.github.io/) · [CV](https://jienweng.github.io/cv/) · [Projects](https://jienweng.github.io/projects/) · [LinkedIn](https://www.linkedin.com/in/jienweng/) · [Email](mailto:laijienweng@gmail.com)
+[Website](https://jienweng.github.io/) · [CV](https://jienweng.github.io/cv/) · [Projects](https://jienweng.github.io/projects/) · [LinkedIn](https://www.linkedin.com/in/jienweng/) · [X](https://x.com/jienweng_) · [Google Scholar](https://scholar.google.com/citations?user=2siljxAAAAAJ) · [Email](mailto:laijienweng@gmail.com)
