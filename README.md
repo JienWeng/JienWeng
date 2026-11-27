@@ -4,7 +4,7 @@
 
 I turn complex Web3, payments, data, and operational problems into clear roadmaps, coordinated delivery, and usable systems. My work sits between product strategy, technical execution, analytics, and the teams who need to operate what gets built.
 
-I currently lead product for multi-chain crypto payment and wallet infrastructure at CryptoRails. I also lead business-transformation work from requirements through production support and coach analytics teams on customer profiling, segmentation, and roadmap planning.
+I am the product manager for multi-chain crypto payment and wallet infrastructure at CryptoRails. I also lead business-transformation work from requirements through production support and coach analytics teams on customer profiling, segmentation, and roadmap planning.
 
 ## What I work on
 
